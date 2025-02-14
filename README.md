@@ -67,6 +67,7 @@ In this project, we implemented and evaluated three different attention mechanis
 ![Attention Map 2](image-4.png)
 
 ## Task 4: Web Application
+![alt text](image.png)
 
 ### 1. Overview
 The web application is built using Flask, a lightweight web framework for Python. It loads a pre-trained Seq2Seq model with an attention mechanism to translate sentences from English to Vietnamese. The application provides a simple web interface where users can input an English sentence and receive its Vietnamese translation.
