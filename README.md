@@ -92,8 +92,7 @@ The model is loaded using PyTorch. The Seq2Seq model is defined in `model.py` an
 ![Translation Function](image-9.png)
 
 #### 3.5 Flask Application
-
-![Flask Application](image-10.png)
+![alt text](image-10.png)
 
 ### 4. User Interface
 The user interface is defined in `templates/index.html` and allows users to input an English sentence and receive the Vietnamese translation.
