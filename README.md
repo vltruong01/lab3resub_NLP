@@ -92,6 +92,7 @@ The model is loaded using PyTorch. The Seq2Seq model is defined in `model.py` an
 ![Translation Function](image-9.png)
 
 #### 3.5 Flask Application
+
 ![Flask Application](image-10.png)
 
 ### 4. User Interface
